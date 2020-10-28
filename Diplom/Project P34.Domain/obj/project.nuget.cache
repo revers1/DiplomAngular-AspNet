@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mkV2q9U3m8Orz0aoREFR187WXN6U8GSShbuvCA4SLIqL4ijDYSFcl3HOv3DyqNe83ovoR7+HrZJtGkZNK1MsKA==",
+  "dgSpecHash": "Kw5R3Tw6L81VZpVb64x9tMvHeESyudDlWHyNoMC1M7u6rnCSUBkLm+kJ3uUUDqKfW2xN0ffxV8AxeXqrvJ7b2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Base-App-Angular-with-JWT-Auth-and_CRUD-master\\Project P34.Domain\\Project P34.Domain.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.Domain\\Project P34.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.1\\microsoft.aspnetcore.authentication.jwtbearer.3.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",

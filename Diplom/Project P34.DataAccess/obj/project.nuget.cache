@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TFKmJozJOYSuue1Yzlbm9A2aS+eletoIJ21veKBmxQBNhsBUUZY7wXsituPJhOaAFumUxF8YejjhtKN7KBBbGQ==",
+  "dgSpecHash": "cEf1328HoRfj6xJ/u7R37X/4xYCTWiD9gIMGZe4oZi7lYkZlfFvH0avdZXaEds0z6cDrwCTjqWHXvBGgFP7YFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Base-App-Angular-with-JWT-Auth-and_CRUD-master\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.1\\microsoft.aspnetcore.cryptography.keyderivation.3.1.1.nupkg.sha512",

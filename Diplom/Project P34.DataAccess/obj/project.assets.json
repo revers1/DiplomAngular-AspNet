@@ -953,11 +953,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Base-App-Angular-with-JWT-Auth-and_CRUD-master\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
       "projectName": "Project P34.DataAccess",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Base-App-Angular-with-JWT-Auth-and_CRUD-master\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Base-App-Angular-with-JWT-Auth-and_CRUD-master\\Project P34.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

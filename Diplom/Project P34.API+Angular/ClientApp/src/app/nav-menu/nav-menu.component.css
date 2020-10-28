@@ -28,3 +28,74 @@ html {
   height: 100%;
 
 } */
+
+.dropbtn {
+  padding: 16px;
+  font-size: 24px;
+  background-color: transparent;
+  border: none;
+  color: #fe955e;
+  font-weight: bold;
+  font-style: italic;
+  
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-left: 7%;
+  margin-top: 5px;
+}
+
+
+.dropdown-content {
+  background-color: white;
+  display: none;
+  width: 100%;
+  position: absolute;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  background-color:  #0c858d;
+}
+
+
+.dropdown-content a {
+  color: #0ccf7b;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.header{
+  background-color: #756d9e;
+  height: 10%;
+}
+
+#buy{
+  background-color: transparent;
+  color: #fe955e;
+  border: none;
+  font-size: 26px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#contacts{
+  background-color: transparent;
+  color: #fe955e;
+  border:none;
+  font-size: 26px;
+  font-weight: bold;
+  font-style: italic;
+  
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+
+.dropdown:hover .dropdown-content {display: block;}
+
+
+.dropdown:hover .dropbtn {background-color: #b09bb8;}
+
+* {box-sizing:border-box}

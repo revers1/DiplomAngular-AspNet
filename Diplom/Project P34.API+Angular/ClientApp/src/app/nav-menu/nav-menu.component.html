@@ -1,11 +1,36 @@
 <header>
   <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
     <div class="container">
-      <a class="navbar-brand" [routerLink]="['/']" style="height: 100px; width: 100px;"><img id="logo" src="/images/logo.png" width="100%"/></a>
+      <a class="navbar-brand" [routerLink]="['/']" style="height: 100px; width: 100px; margin-left: -40px;"><img id="logo" src="/images/logo.png" width="100%"/></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
         aria-label="Toggle navigation" [attr.aria-expanded]="isExpanded" (click)="toggle()">
         <span class="navbar-toggler-icon"></span>
       </button>
+
+
+      <div class="dropdown">
+        <button class="dropbtn">Вибір квартири</button>
+        <div class="dropdown-content">
+          <a href="#">1 - кімнатні</a>
+          <a href="#">2 - кімнатні</a>
+          <a href="#">3 - кімнатні</a>
+          <a href="#">4 - кімнатні</a>
+        </div>
+      </div>
+      <div class="dropdown">
+                <button class="dropbtn">Галерея</button>
+                <div class="dropdown-content">
+                  <a href="#">Фото</a>
+                  <a href="#">Відео</a>
+                </div>
+      </div>
+      <div class="dropdown">
+          <button id="buy">Умови покупки</button>
+      </div>
+      <div class="dropdown">
+          <button id="contacts">Контакти</button>
+      </div>
+
       <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse" [ngClass]="{ show: isExpanded }">
         <ul class="navbar-nav flex-grow">
           <li class="nav-item" [routerLinkActive]="['link-active']" [routerLinkActiveOptions]="{ exact: true }">

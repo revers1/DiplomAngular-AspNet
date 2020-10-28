@@ -1,0 +1,76 @@
+.slideshow-container {
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    max-height: 200px;
+    height: 200px !important;
+  
+  }
+  
+  
+  .mySlides {
+    display: none;
+    width: 100%;
+    max-height: 300px !important;
+  }
+  
+  
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 3.5s;
+    animation-name: fade;
+    animation-duration: 3.5s;
+  }
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+  
+  body{
+      background-color: rgb(218, 218, 218);
+  }
+  
+  
+  .info1{
+      margin-top: 30%;
+      margin-left: 5%;
+      width: 500px;
+  }
+  
+  .leftimg { 
+      box-shadow: -5px -5px 5px 2px rgb(24, 24, 24);
+      float:left; 
+      margin: 10px 20px 7px 0; 
+  }
+  
+  .leftimg:hover{
+      cursor: pointer;
+      box-shadow: -8px -8px 5px 2px black;
+  }
+  
+  .info2{
+      float: right;
+      width: 500px;
+      margin-right: 5%;
+  }
+  
+  .rightimg  {
+      box-shadow: 5px 5px 5px 2px rgb(24, 24, 24);
+      float: right; 
+      margin: 7px 0 7px 7px;
+  }
+  
+  .rightimg:hover{
+      box-shadow: 8px 8px 5px 2px rgb(0, 0, 0);
+  
+  }
+  
+  .infoheader{
+      color: rgb(172, 172, 172);
+  }
