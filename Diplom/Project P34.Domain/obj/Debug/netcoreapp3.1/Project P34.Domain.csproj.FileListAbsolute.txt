@@ -33,3 +33,15 @@ C:\Users\PC\Desktop\Diplom\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Pro
 C:\Users\PC\Desktop\Diplom\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.csproj.CopyComplete
 C:\Users\PC\Desktop\Diplom\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.dll
 C:\Users\PC\Desktop\Diplom\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.pdb
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\bin\Debug\netcoreapp3.1\Project P34.Domain.deps.json
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\bin\Debug\netcoreapp3.1\Project P34.Domain.dll
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\bin\Debug\netcoreapp3.1\Project P34.Domain.pdb
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\bin\Debug\netcoreapp3.1\Project P34.DataAccess.dll
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\bin\Debug\netcoreapp3.1\Project P34.DataAccess.pdb
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.csprojAssemblyReference.cache
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.AssemblyInfoInputs.cache
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.AssemblyInfo.cs
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.csproj.CoreCompileInputs.cache
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.csproj.CopyComplete
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.dll
+D:\Study\2020-2021\16.Dyplomy\DiplomAngular-AspNet\Diplom\Project P34.Domain\obj\Debug\netcoreapp3.1\Project P34.Domain.pdb

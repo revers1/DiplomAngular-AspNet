@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DTO\\Project P34.DTO.csproj": {}
+    "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DTO\\Project P34.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj": {
+    "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
+        "projectUniqueName": "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
         "projectName": "Project P34.DataAccess",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\obj\\",
+        "projectPath": "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\novak\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\novak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -78,26 +77,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DTO\\Project P34.DTO.csproj": {
+    "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DTO\\Project P34.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DTO\\Project P34.DTO.csproj",
+        "projectUniqueName": "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DTO\\Project P34.DTO.csproj",
         "projectName": "Project P34.DTO",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DTO\\Project P34.DTO.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DTO\\obj\\",
+        "projectPath": "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DTO\\Project P34.DTO.csproj",
+        "packagesPath": "C:\\Users\\novak\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\novak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -109,8 +107,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\Diplom\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj"
+              "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj": {
+                "projectPath": "D:\\Study\\2020-2021\\16.Dyplomy\\DiplomAngular-AspNet\\Diplom\\Project P34.DataAccess\\Project P34.DataAccess.csproj"
               }
             }
           }
@@ -144,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
